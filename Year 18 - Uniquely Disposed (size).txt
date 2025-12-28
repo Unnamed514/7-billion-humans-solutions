@@ -1,0 +1,9 @@
+-- 7 Billion Humans (2234) --
+-- 18: 独特偏爱 --
+
+pickup w
+step sw
+a:
+step se
+giveto s
+jump a
