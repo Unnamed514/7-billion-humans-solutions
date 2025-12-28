@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2234) --
+-- 44: 独特时髦派对 --
+
+step w
+pickup ne
+if w == wall and
+ myitem != datacube and
+ s != datacube or
+ w != wall or
+ se == datacube:
+	mem1 = calc 0 / 0
+endif
+pickup s
